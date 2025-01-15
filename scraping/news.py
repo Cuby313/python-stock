@@ -4,12 +4,24 @@
 # Part of the fundamental analyzsis when considering purchasing a stock
 
 
-def fetch_news():
-
+def time():
     
+    pass
 
-def notify_news():
+
+def fetch_company_news(company):
 
     pass
 
 
+def print_news():
+
+    pass
+
+
+
+
+
+
+if __name__ == "main":
+    fetch_news()
