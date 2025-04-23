@@ -9,8 +9,6 @@ For the stock information and how to write the script I will use:
 - https://sakethmamidi99.medium.com/stock-market-analysis-using-python-d5b3aaa0a94b
 - https://dataheadhunters.com/academy/how-to-create-a-stock-market-analysis-tool-in-python-for-finance
 
-For webscraping and how it's done I shall learn from:
+For webscraping and how it's done I will learn from:
 - https://github.com/oxylabs/Python-Web-Scraping-Tutorial
 - https://realpython.com/python-web-scraping-practical-introduction/
-
-Let's begin!
